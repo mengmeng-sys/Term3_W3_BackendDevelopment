@@ -1,0 +1,10 @@
+﻿# Dependencies
+node_modules/
+EX-2/node_modules/
+EX-3/node_modules/
+
+# Other common ignores
+.env
+*.log
+.DS_Store
+*.zip
